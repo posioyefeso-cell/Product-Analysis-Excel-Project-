@@ -3,7 +3,7 @@ A personal excel project built while learning Data Analytics
 ## Skills Used
 - Microsoft Excel
 - XLOOKUP
-- AVERAGEIF
+- IF & IFS statements
 - IFERROR
 - Dashboard Design
 - Data Visualization
