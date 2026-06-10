@@ -7,5 +7,6 @@ A personal excel project built while learning Data Analytics
 - IFERROR
 - Dashboard Design
 - Data Visualization
-- Detailed insights will be expanded as project develops
+
+  Detailed insights will be expanded as project develops
   
